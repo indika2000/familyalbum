@@ -19,3 +19,5 @@ Setting up the OPENCV environment on Ubuntu 16
     
 5) Install libraries that are used to optimize various functionalities inside OpenCV, such as matrix operations
     $ sudo apt-get install libatlas-base-dev gfortran
+
+Add
